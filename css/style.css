@@ -1,3 +1,16 @@
 #header-img{
     width: 20%;
   }
+  #nav-bar {
+    position: fixed;
+    top: 0px;
+    left: 0px;
+  }
+  .flex {
+    display: flex;
+  }
+  @media screen and (min-width: 480px) {
+    body {
+      
+    }
+  }
